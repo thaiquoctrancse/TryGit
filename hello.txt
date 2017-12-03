@@ -1,6 +1,6 @@
-main..............home feature new
+main..............home feature 6
 feature 1
 feature 2
-office
-ofice
-new new new 
+home
+home
+home
