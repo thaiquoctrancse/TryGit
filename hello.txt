@@ -1,6 +1,6 @@
 main..............home feature 6
 feature 1
 feature 2
-6
-6
-6
+home
+home
+home
