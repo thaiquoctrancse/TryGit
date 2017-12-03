@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 main..............home feature B
 feature 1
 feature 2
 B
+=======
+main..............home feature A
+feature 1
+feature 2
+A
+>>>>>>> origin/Feature_A
