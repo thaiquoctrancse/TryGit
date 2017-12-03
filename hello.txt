@@ -1,6 +1,4 @@
-main..............home feature 6
+main..............home feature A
 feature 1
 feature 2
-home
-home
-home
+A
