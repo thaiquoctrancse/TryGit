@@ -1,3 +1,4 @@
 main..............home feature 7
-feature 1
+feature 7
 feature 2
+feature 7
