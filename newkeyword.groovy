@@ -10,4 +10,5 @@ class newkeyword {
 	def printHello(String name) {
 		println 'Hello guys !!!' + name;
 	}
+	test 1
 }
